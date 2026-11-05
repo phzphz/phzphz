@@ -15,6 +15,8 @@ I am interested in **data engineering, database systems and backend development*
 | [Movie Discovery Platform](https://github.com/phzphz/flask-movie-discovery) | Accounts, search, favourites, genre-based recommendations, administrator tools and audit logs. | Flask, SQLAlchemy, SQLite, Jinja |
 | [Decision Trees for Fraud Detection](https://github.com/phzphz/decision-tree-fraud-detection) | Missing-value filtering, stratified splits, pruning and feature selection, with the original evaluation limitations documented. | Python, scikit-learn |
 
+**Project demonstrations:** [IMDb aggregate outputs](https://github.com/phzphz/imdb-text-mining#example-outputs) · [Movie platform screenshots and walkthrough](https://github.com/phzphz/flask-movie-discovery#demo-walkthrough)
+
 Additional coursework: [Budget Tracker](https://github.com/phzphz/flask-budget-tracker) — a Flask application for income, expenses and savings goals.
 
 ## E-Scooter: my contribution
